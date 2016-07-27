@@ -1,0 +1,5 @@
+/Users/dmytroreheta/Documents/projects/patterns/Prototype/Prototype/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/dmytroreheta/Documents/projects/patterns/Prototype/Prototype/bin/Debug/Prototype.exe.mdb
+/Users/dmytroreheta/Documents/projects/patterns/Prototype/Prototype/bin/Debug/Prototype.exe
+/Users/dmytroreheta/Documents/projects/patterns/Prototype/Prototype/obj/x86/Debug/Prototype.exe
+/Users/dmytroreheta/Documents/projects/patterns/Prototype/Prototype/obj/x86/Debug/Prototype.exe.mdb

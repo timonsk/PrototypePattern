@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Prototype/Prototype.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prototype/Program.cs">
+    <Files>
+      <File FileName="Prototype/Program.cs" Line="19" Column="4" />
+      <File FileName="Prototype/Models/AbstractPrototype.cs" Line="17" Column="27" />
+      <File FileName="Prototype/Models/Prototype.cs" Line="2" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Prototype PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
